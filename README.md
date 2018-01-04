@@ -1,3 +1,6 @@
+## Important Links
+>> [Fredosaurus C++](http://www.fredosaurus.com/notes-cpp/)
+
 
 ## Go to codes to various Data Structures and Algorithms
 
