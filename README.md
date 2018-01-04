@@ -7,7 +7,7 @@
 
 ### Singly Linked List Implementation in c++
 
-```
+```c++
 // Singly Linked List implementation in c++
 
 #include <iostream>
