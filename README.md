@@ -132,5 +132,4 @@ int main()
     return 0;
 }
 ```
-### Singly Linked List Implementation in c++
 **My Github** [Link](https://github.com/adist98)
