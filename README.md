@@ -60,4 +60,4 @@ URL ="https://www.codesdope.com/blog/article/c-linked-lists-in-c-singly-linked-l
 for a great explaination of singly linked list in c++
 */
 ```
-**My Github**[Link](https://github.com/adist98)
+**My Github** [Link](https://github.com/adist98)
