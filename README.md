@@ -1,13 +1,13 @@
-### Important Links
+## Important Links
 * [Fredosaurus C++](http://www.fredosaurus.com/notes-cpp/)
 * [Cplusplus.com](http://www.cplusplus.com/)
 
 
-### Reference Notes
+## Reference Notes
 1. A constructor is a special member function that has the **same name as class**. It's purpose is to ensure that each data member is set to sensible initial values.
 `Source (Pg.431 - C++ Primer)`
 
-### Singly Linked List Implementation in c++
+## Singly Linked List Implementation in c++
 
 ```c++
 // Singly Linked List implementation in c++
@@ -66,7 +66,7 @@ for a great explaination of singly linked list in c++
 */
 ```
 
-### Stack implementation in c++ using Arrays
+## Stack implementation in c++ using Arrays
 
 ```c++
 /* C++ program to implement basic stack
