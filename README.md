@@ -156,7 +156,7 @@ int main()
 // Source for the above code :: "https://www.geeksforgeeks.org/stack-data-structure-introduction-program/" 
 ```
 ## Queue implementation using Circular Arrays
-```
+```c++
 /* Queue - Circular Array implementation in C++*/
 #include<iostream>
 using namespace std; 
