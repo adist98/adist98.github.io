@@ -1,5 +1,5 @@
 ## To do list
--[] To write the explaination of Enqueue and Dequeue functions in circular array implementation of Queues.
+- [ ] To write the explaination of Enqueue and Dequeue functions in circular array implementation of Queues.
 
 ## Important Links
 * [Fredosaurus C++](http://www.fredosaurus.com/notes-cpp/)
