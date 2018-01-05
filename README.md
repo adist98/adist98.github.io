@@ -16,6 +16,7 @@
 3. Each class defines an **interface** and **implementation**. The interface consists of the operations that we expect code that uses the class to execute. The implementationtypically consists the data needed by the class. The implementation also includes any functions needed to define the class but that are not intended for the general use.
 `Source (Pg.63 -C++ Primer)`
 4. A defintion must always end in semicolon, that is why a class definition also ends in semicolon.
+5. `Pg.49 -C++ Primer`
 
 ## Class vs Struct
 * CLASS
