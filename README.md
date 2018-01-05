@@ -7,6 +7,8 @@
 ## Reference Notes
 1. A constructor is a special member function that has the **same name as class**. It's purpose is to ensure that each data member is set to sensible initial values.
 `Source (Pg.431 - C++ Primer)`
+2. Writing `std::cout` uses the **scope operator**(::) to say we want to use the name `cout` that is in the `namespace std`.
+`Source (Pg.8 -C++ Primer)`
 
 ## Singly Linked List Implementation in c++
 
