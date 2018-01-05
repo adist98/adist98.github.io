@@ -208,6 +208,19 @@ public:
 		else
 		{
 		    rear = (rear+1)%MAX_SIZE;
+		    /* Remainder theorem is followed here implying
+		    a = b.q+r
+		    where r is the remainder and q is the quotient.
+		    we know that remainder is returned by % operator
+		    we also know that rear is smaller that MAX_SIZE 
+		    and the % operator will return (rear+1) when the 
+		    following operation is performed because
+		    (rear+1) = MAX_SIZE*0 + (rear + 1)
+		    a        =    b.q     +      r
+		    The above thing happens because MAX_SIZE > rear
+		    
+		    When MAX_SIZE is equal to rear the remainder is 0
+		    */
 		}
 		A[rear] = x;
 	}
