@@ -1,6 +1,7 @@
 ## Important Links
 * [Fredosaurus C++](http://www.fredosaurus.com/notes-cpp/)
-* [Cplusplus.com](http://www.cplusplus.com/)
+* [cplusplus.com](http://www.cplusplus.com/)
+* [cplusplus.com - Inline Function](http://www.cplusplus.com/articles/2LywvCM9/)
 
 
 ## Reference Notes
