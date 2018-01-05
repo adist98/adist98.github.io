@@ -11,13 +11,13 @@
 `Source (Pg.8 -C++ Primer)`
 
 ## Class vs Struct
-CLASS
+* CLASS
 `class()
 {
 // if we have not used any access label, the default access label is private
 };
 `
-STRUCT
+* STRUCT
 `struct()
 {
 // if we have not used any access label, the default access label is public
