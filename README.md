@@ -10,6 +10,19 @@
 2. Writing `std::cout` uses the **scope operator**(::) to say we want to use the name `cout` that is in the `namespace std`.
 `Source (Pg.8 -C++ Primer)`
 
+## Class vs Struct
+CLASS
+`class()
+{
+// if we have not used any access label, the default access label is private
+};
+`
+STRUCT
+`struct()
+{
+// if we have not used any access label, the default access label is public
+};
+`
 ## Singly Linked List Implementation in c++
 
 ```c++
