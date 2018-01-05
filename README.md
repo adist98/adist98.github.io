@@ -1,5 +1,6 @@
 ## Important Links
->> [Fredosaurus C++](http://www.fredosaurus.com/notes-cpp/)
+* [Fredosaurus C++](http://www.fredosaurus.com/notes-cpp/)
+* [Cplusplus.com](http://www.cplusplus.com/)
 
 
 ## Go to codes to various Data Structures and Algorithms
