@@ -220,6 +220,10 @@ public:
 		    The above thing happens because MAX_SIZE > rear
 		    
 		    When MAX_SIZE is equal to rear the remainder is 0
+		    
+		    TL:DR;
+		    % == Modulo Operator
+		    if a<b then a%b = a
 		    */
 		}
 		A[rear] = x;
