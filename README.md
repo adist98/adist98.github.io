@@ -5,7 +5,7 @@
 
 ### Reference Notes
 1. A constructor is a special member function that has the **same name as class**. It's purpose is to ensure that each data member is set to sensible initial values.
-_Source (Pg.431 - C++ Primer)_
+`Source (Pg.431 - C++ Primer)`
 
 ### Singly Linked List Implementation in c++
 
