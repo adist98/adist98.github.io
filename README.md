@@ -2,6 +2,7 @@
 * [Fredosaurus C++](http://www.fredosaurus.com/notes-cpp/)
 * [cplusplus.com](http://www.cplusplus.com/)
 * [cplusplus.com - Inline Function](http://www.cplusplus.com/articles/2LywvCM9/)
+* [cppreference - Operators](http://en.cppreference.com/w/cpp/language/operator_incdec)
 
 
 ## Reference Notes
