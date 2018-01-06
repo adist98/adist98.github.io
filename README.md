@@ -31,6 +31,7 @@
 // if we have not used any access label, the default access label is public
 };
 `
+
 ## Singly Linked List Implementation in c++
 
 ```c++
