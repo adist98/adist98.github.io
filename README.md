@@ -5,6 +5,7 @@
 
 ## To do list
 - [ ] To write the explaination of Enqueue and Dequeue functions in circular array implementation of Queues.
+- [ ] [HackerEarth Heaps and Priority Queues](https://www.hackerearth.com/practice/notes/heaps-and-priority-queues/)
 
 ## Important Links
 * [Fredosaurus C++](http://www.fredosaurus.com/notes-cpp/)
