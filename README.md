@@ -1,5 +1,5 @@
 ## Files
-* [Heaps,pdf](https://www.dropbox.com/s/30kq25klujxqyzs/Heaps.pdf?dl=0)
+* [Heaps.pdf](https://www.dropbox.com/s/30kq25klujxqyzs/Heaps.pdf?dl=0)
 
 ## To do list
 - [ ] To write the explaination of Enqueue and Dequeue functions in circular array implementation of Queues.
