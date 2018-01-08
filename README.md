@@ -1,6 +1,3 @@
-## Files
-* [Heaps.pdf](https://www.dropbox.com/s/30kq25klujxqyzs/Heaps.pdf?dl=0)
-* [heaps(1).pdf](https://www.dropbox.com/s/9vde3wnno3wed2e/heaps%20%281%29.pdf?dl=0)
 
 
 ## To do list
