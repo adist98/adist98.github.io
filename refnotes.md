@@ -7,3 +7,18 @@
 `Source (Pg.63 -C++ Primer)`
 4. A defintion must always end in semicolon, that is why a class definition also ends in semicolon.
 5. `Pg.49 -C++ Primer`
+
+
+## Class vs Struct
+* CLASS
+`class()
+{
+// if we have not used any access label, the default access label is private
+};
+`
+* STRUCT
+`struct()
+{
+// if we have not used any access label, the default access label is public
+};
+`
