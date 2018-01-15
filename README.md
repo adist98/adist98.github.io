@@ -10,7 +10,7 @@
 * [Queue](queue.md)
 
 ### Coursera Codes
-* Maximum Pairwise Product (Slow) | [Link](MaxPairwideProduct.md)
+Maximum Pairwise Product (Slow) | [Link](MaxPairwideProduct.md)
 
 
 ## TO DO LIST
