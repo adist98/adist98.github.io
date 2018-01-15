@@ -1,7 +1,6 @@
 ## Maximum Pairwise Product (Algo Toolbox - CERA)
 
-Note : It is advised that everybody values Coursera's code of conduct and qualifies each assignment by himself/herself.
-Note : This Github page is created for personal use.
+Note : It is advised that everybody values Coursera's code of conduct and qualifies each assignment by himself/herself.This Github page is created for personal use.
 ```c++
 #include <iostream>
 #include <vector>
