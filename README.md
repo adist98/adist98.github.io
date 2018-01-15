@@ -11,7 +11,7 @@
 
 ### Coursera Codes
 Name of the file | Link
----------------- | --------------
+---------------- | ----
 Maximum Pairwise Product (Slow) | [Link](MaxPairwideProduct.md)
 
 
