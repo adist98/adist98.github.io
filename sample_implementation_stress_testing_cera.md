@@ -1,3 +1,6 @@
+### Sample Implementation stress testing CERA
+
+``` c++
 #include <cstdlib>
 #include <iostream>
 #include <vector>
@@ -68,3 +71,4 @@ int main() {
   cout << result << "\n";
   return 0;
 }
+```
