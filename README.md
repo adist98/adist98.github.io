@@ -4,6 +4,7 @@
 ### Links
 * [Reference Notes](refnotes.md)
 * [Important Links](implinks.md)
+* [USF Visualisations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### C++ Code
 * [Singly Linked List](sll.md)
