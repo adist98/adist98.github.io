@@ -1,4 +1,5 @@
 ## HOME
+Disclaimer : This github page is created for personal use and in no way intended to break coursera's code of conduct. It is advised that everybody values coursera's code of conduct.
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### Links
 * [Reference Notes](refnotes.md)
