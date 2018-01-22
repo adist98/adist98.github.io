@@ -29,5 +29,6 @@
 
 ## Images
 * [Runtime](https://adist98.github.io/runtime.PNG)
+* [Big O rules](https://adist98.github.io/common_rules.PNG)
 
 [Github](https://github.com/adist98)
