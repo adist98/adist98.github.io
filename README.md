@@ -17,8 +17,9 @@
 * [Stacks](stack.md)
 * [Queue](queue.md)
 
-### Coursera Codes
+### Coursera Codes (AlgoToolBox)
 Maximum Pairwise Product (Slow) | [Link](MaxPairwideProduct.md)
+Stress Testing (Maximum Pairwise Product) | [Link](stress_test.md)
 
 
 ## TO DO LIST
