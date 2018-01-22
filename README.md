@@ -18,9 +18,9 @@
 * [Queue](queue.md)
 
 ### Coursera Codes (AlgoToolBox)
-* Maximum Pairwise Product (Slow) |                 [Link](MaxPairwideProduct.md)
-* Stress Testing (Maximum Pairwise Product) |       [Link](stress_test.md)
-* Efficient Implementation (Max Pairwise Product) | [Link](eff_imp_MPWP.md)
+* Maximum Pairwise Product (Slow)-[Link](MaxPairwideProduct.md)
+* Stress Testing (Maximum Pairwise Product)-[Link](stress_test.md)
+* Efficient Implementation (Max Pairwise Product)-[Link](eff_imp_MPWP.md)
 
 
 ## TO DO LIST
