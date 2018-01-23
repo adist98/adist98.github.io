@@ -30,5 +30,6 @@
 ## Images
 * [Runtime](https://adist98.github.io/runtime.PNG)
 * [Big O rules](https://adist98.github.io/common_rules.PNG)
+* [Maximum Refill Problem](https://adist98.github.io/MRP.PNG)
 
 [Github](https://github.com/adist98)
