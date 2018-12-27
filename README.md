@@ -2,8 +2,8 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### ALGORITHMIC SKILLS
-* Two pointer technique(https://www.geeksforgeeks.org/two-pointers-technique/)
-* Sliding window technique(https://www.geeksforgeeks.org/window-sliding-technique/)
+* [Two pointer technique](https://www.geeksforgeeks.org/two-pointers-technique/)
+* [Sliding window technique](https://www.geeksforgeeks.org/window-sliding-technique/)
 * Frequency calculation - string and numbers 
 * Jay Kadane's algorithm
 
