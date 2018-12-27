@@ -4,8 +4,8 @@
 ### ALGORITHMIC SKILLS
 * [Two pointer technique](https://www.geeksforgeeks.org/two-pointers-technique/)
 * [Sliding window technique](https://www.geeksforgeeks.org/window-sliding-technique/)
-* Frequency calculation - string and numbers 
-* Jay Kadane's algorithm
+* Frequency calculation - characters and numbers. 
+* Jay Kadane's algorithm - Used in max 1D range sum.
 
 ### CONTAINER SKILLS
 * Set
